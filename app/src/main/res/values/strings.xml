@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pixabay challenge</string>
+    <string name="hint_search">Enter the query</string>
+    <string name="alert_message">Are you sure you want to open the details?</string>
+    <string name="username_mask">By: %s</string>
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_username">Username</string>
+    <string name="label_tags">Tags</string>
+    <string name="label_likes">Likes</string>
+    <string name="label_downloads">Downloads</string>
+    <string name="label_comments">Comments</string>
+</resources>
